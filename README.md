@@ -8,4 +8,4 @@ aggregate score by the end of the competition.
 
 
 # Technology
-A django reset framework application
+A django rest framework application
